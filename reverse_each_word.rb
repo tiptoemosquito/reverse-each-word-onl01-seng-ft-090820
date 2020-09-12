@@ -1,9 +1,9 @@
-phrase = "Hello, there how are you?"
+words = "Hello, there how are you?"
 
-def reverse_each_word(word)
+def reverse_each_word(words)
 
 
-  word.reverse.each do |word|
+  words.reverse.each do |words|
 
   end
 
